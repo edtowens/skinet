@@ -3,5 +3,9 @@
     "csharpextensions.privateMemberPrefix": "_",
     "sqlite.setupDatabase": {
     
+    },
+    "files.exclude": {
+        "**/bin": true,
+        "**/obj": true
     }
 }
