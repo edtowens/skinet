@@ -1,0 +1,7 @@
+{
+    "csharpextensions.useThisForCtorAssignments": false,
+    "csharpextensions.privateMemberPrefix": "_",
+    "sqlite.setupDatabase": {
+    
+    }
+}
